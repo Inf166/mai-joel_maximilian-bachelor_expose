@@ -1,51 +1,51 @@
-% Dokument Klasse
+% Document Class
 \documentclass{article}
 
-% Seitengröße
+% Page dimensions
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 
-% Leere Zeilen sind gleich Linebreaks
+% Empty lines are linebreaks
 \usepackage{parskip}
 
-% Sprache des Dokuments
+% Language of the document
 \usepackage[english]{babel}
 \usepackage[babel=true]{csquotes}
 % chktex-file 18
 \MakeOuterQuote{"}
 
-% Nur ein Wort auf einer Seite ausschließen
-\clubpenalty=10000 % Schusterjungen ausschließen 
-\widowpenalty=10000 % Hurenkinder ausschließen 
+% Exclude only one word on one page
+\clubpenalty=10000 % Exclude cobblers
+\widowpenalty=10000 % Exclude whore children
 
-% Einrückung am Anfang der Zeile entfernen
+% Remove the indentation at the beginning of the line
 \usepackage{lipsum}
 \setlength{\parindent}{0pt} 
 
-% Zitierweise definieren
+% Define citation
 \usepackage[round, sort, numbers]{natbib}
 \setcitestyle{square}
 
-% Links nicht hervorheben
+% Do not highlight the links
 \usepackage[breaklinks]{hyperref}
 \hypersetup{colorlinks=true,allcolors=[rgb]{0,0,0}}
 
-% Sans-Serif Schrift als Default
+% Sans-Serif font as a default
 \renewcommand{\familydefault}{\sfdefault}
 
-% Seitenzahl auf Titelseite
+% Number of pages on the front page
 \patchcmd{\titlepage}
   {\thispagestyle{empty}}
   {\thispagestyle{plain}}
   {}
   {}
   
-% Padding für Tabellen
+% Padding for tables
 \usepackage{booktabs}
 
-% Mehr Lineheight
+% More lineheight
 \renewcommand*\baselinestretch{1.3}\selectfont
 
-% Dokument Struktur
+% Document structure
 \begin{document}
 \pagenumbering{Roman}
 \setcounter{page}{1}
