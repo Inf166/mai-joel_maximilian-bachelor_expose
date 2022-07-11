@@ -4,6 +4,7 @@
 // LaTex
 *.aux
 *.bbl
+*.bcf
 *.blg
 *.fdb_latexmk
 *.fls
@@ -11,3 +12,4 @@
 *.out
 *.synctex.gz
 *.toc
+*.run.xml
