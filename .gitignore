@@ -3,12 +3,18 @@
 .idea/
 
 // LaTex
+*.acn
 *.aux
 *.bbl
 *.bcf
 *.blg
 *.fdb_latexmk
 *.fls
+*.glo
+*.glg
+*.gls
+*.glsdefs
+*.ist
 *.log
 *.out
 *.synctex.gz

@@ -47,6 +47,12 @@
 % More lineheight
 \renewcommand*\baselinestretch{1.3}\selectfont
 
+% IMPORT CUSTOM PACKAGES HERE
+\usepackage{import}
+
+% Import Glossary Package
+\usepackage{packages/glossary}
+
 % Variables
 \newcommand{\thesis}{Mergin Human-computer interaction with agile software development}
 
@@ -66,5 +72,7 @@
 \newpage
 \pagenumbering{Roman}
 \setcounter{page}{2}
-\input{./chapters/8-references}
+\input{./chapters/8-glossary}
+\newpage
+\input{./chapters/9-references}
 \end{document}

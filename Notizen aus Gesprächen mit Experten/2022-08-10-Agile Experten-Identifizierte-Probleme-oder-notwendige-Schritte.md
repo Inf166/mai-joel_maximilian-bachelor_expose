@@ -1,4 +1,4 @@
-Meine aktuellen Ansätze sind (provokant formuliert) für ein "neues" Vorgehensmodell:
+# Meine aktuellen Ansätze sind (provokant formuliert) für ein "neues" Vorgehensmodell
 
 - Agilen Methoden fehlt die Konzeption am Anfang
   - Macht ein Vorgehensmodell konkreter
@@ -42,7 +42,7 @@ Meine aktuellen Ansätze sind (provokant formuliert) für ein "neues" Vorgehensm
 - Alle müssen von dem Agilen Manifesto überzeugt sein und mit an einem Strang ziehen
 
 - Zwischen neuem Projekt und Erhalt eines Produkts muss unterschieden werden
-  - Projekte werden durch Wertströme ersetzt (https://www.scaledagileframework.com/guardrails/)
+  - [Projekte werden durch Wertströme ersetzt](https://www.scaledagileframework.com/guardrails/)
     - Also alle Backlog items sind erstmal gleich viel wert und werden dann priorisiert
   - In welcher Phase befindet sich das Produkt
     - Was sind meine Funktionalitäten
@@ -64,13 +64,13 @@ Meine aktuellen Ansätze sind (provokant formuliert) für ein "neues" Vorgehensm
   - Scheiternde Projekte
   - Interesse an Agil
   - Agil falsch umgesetzt
-  - Unternehmen immernoch am scheitern 
+  - Unternehmen immernoch am scheitern
   - Produktlebenszyklen sind kürzer geworden
 
 - Vuka Welt oder Vuca World
 
+## Identifizierte Probleme oder notwendige Schritte
 
-ALSO:
 1) Reifegrad vom Unternehmen feststellen
     - CONTINOUS LEARNING
     - Passives Lernen passt nicht zum Agilen Mindset
@@ -78,4 +78,3 @@ ALSO:
     A) Vorgehensmodell leichter verständlich machen für Management
     B) Vorgehensmodell integrieren lassen durch Agilen Integrator "Klopper"
 3) Agiles Arbeiten weiterentwickeln
-    
