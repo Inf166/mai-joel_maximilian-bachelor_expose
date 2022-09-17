@@ -97,6 +97,23 @@
 ## Nice Quotes
 
 - Adding people later makes the project even later
+- Priority by cost of delay(high) or order in the story map(first)
+- Do not optimize for the case that you know all your requirements (project)
+  - Instead put out more value and gather information
+- We believe that [building this feature] [for these people] will archieve [this outcome]. We will know we are successful when we see [this singal from the market] (Jeff Gothelf - Better User Story)
+  - Validate by:
+    - Surveys
+    - AB Testing
+    - Analysis
+    - Key Metrics
+    - Contextual Inquiry (Byer & Holzblatt)
+    - Follow-Me-Home
+    - Mental Models (Indi Young)
+    - Ride Alongs
+    - Hallway Usability
+    - Concept Testing
+- By fixing the Quality and Assurance you reduce the time you spend on bugfixes etc and can provide more value
+- Feature Branching is a poor persons modulare architecture
 
 ## What is User-Experience
 
